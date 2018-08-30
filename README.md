@@ -1,7 +1,7 @@
 # pinch_ui
 핀치 UI 구현
 
-
+```javascript
 
 const samples = [
   ['CCBDE', 'AAADE', 'AAABF', 'CCBBF'],
@@ -105,3 +105,4 @@ function toString(map) {
 }
 
 samples.forEach(scan);
+```
